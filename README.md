@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ![alt text](https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=32&quality=lossless&name=wavey)
 
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
