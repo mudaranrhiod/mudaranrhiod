@@ -1,4 +1,10 @@
-## Hi there ![alt text](https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=32&quality=lossless&name=wavey)
+## Hello there ![Wavey](https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=32&quality=lossless&name=wavey)
+
+- How to markdown
+
+![status](https://api.statusbadges.me/badge/status/807170846497570848)
+![playing](https://api.statusbadges.me/badge/playing/807170846497570848)
+[![spotify](https://api.statusbadges.me/badge/spotify/807170846497570848)](https://api.statusbadges.me/openspotify/807170846497570848)
 
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
