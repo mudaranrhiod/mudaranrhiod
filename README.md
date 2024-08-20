@@ -1,6 +1,6 @@
 ## Hello there ![Wavey](https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=32&quality=lossless&name=wavey)
 
-- How to markdown
+- How to brain
 
 ![status](https://api.statusbadges.me/badge/status/807170846497570848)
 ![playing](https://api.statusbadges.me/badge/playing/807170846497570848)
