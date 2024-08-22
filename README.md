@@ -2,9 +2,9 @@
 
 - How to brain
 
-![status](https://api.statusbadges.me/badge/status/807170846497570848)
-![playing](https://api.statusbadges.me/badge/playing/807170846497570848)
-[![spotify](https://api.statusbadges.me/badge/spotify/807170846497570848)](https://api.statusbadges.me/openspotify/807170846497570848)
+![status](https://api.statusbadges.me/badge/status/807170846497570848?labelColor=42566a&color=7bb1bd)
+![playing](https://api.statusbadges.me/badge/playing/807170846497570848?labelColor=42566a&color=7bb1bd)
+[![spotify](https://api.statusbadges.me/badge/spotify/807170846497570848?labelColor=42566a&color=7bb1bd)](https://api.statusbadges.me/openspotify/807170846497570848)
 
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
