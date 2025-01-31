@@ -1,4 +1,4 @@
-## Hello there ![Wavey](https://cdn.discordapp.com/emojis/854655151993913374.gif?size=48&quality=lossless&name=arparrive)
+## Hello there ![Wavey](https://cdn.discordapp.com/emojis/854655151993913374.gif?size=32&quality=lossless&name=arparrive)
 
 - I am not sure what to write here
 
