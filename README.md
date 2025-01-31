@@ -1,10 +1,9 @@
-## Hello there ![Wavey](https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=32&quality=lossless&name=wavey)
+## Hello there ![Wavey](https://cdn.discordapp.com/emojis/854655151993913374.gif?size=48&quality=lossless&name=arparrive)
 
-- How to GitHub
+- I am not sure what to write here
 
-![status](https://api.statusbadges.me/badge/status/807170846497570848?labelColor=42566a&color=7bb1bd)
-![playing](https://api.statusbadges.me/badge/playing/807170846497570848?labelColor=42566a&color=7bb1bd)
-[![spotify](https://api.statusbadges.me/badge/spotify/807170846497570848?labelColor=42566a&color=7bb1bd)](https://api.statusbadges.me/openspotify/807170846497570848)
+![status](https://api.statusbadges.me/badge/status/807170846497570848?labelColor=814D33&color=C78C5E)
+![playing](https://api.statusbadges.me/badge/playing/807170846497570848?labelColor=814D33&color=C78C5E)
 
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
