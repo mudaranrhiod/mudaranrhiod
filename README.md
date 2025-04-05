@@ -1,6 +1,6 @@
 ## Hello there ![Wavey](https://cdn.discordapp.com/emojis/854655151993913374.gif?size=32&quality=lossless&name=arparrive)
 
-- I am not sure what to write here
+- I like theming things (not good at it though)
 
 ![status](https://api.statusbadges.me/badge/status/807170846497570848?labelColor=814D33&color=C78C5E)
 ![playing](https://api.statusbadges.me/badge/playing/807170846497570848?labelColor=814D33&color=C78C5E)
