@@ -2,8 +2,7 @@
 
 I like theming things (not good at it though)
 
-![status](https://api.statusbadges.me/badge/status/807170846497570848?labelColor=814D33&color=C78C5E)
-![playing](https://api.statusbadges.me/badge/playing/807170846497570848?labelColor=814D33&color=C78C5E)
+[![Discord Presence](https://lanyard.cnrad.dev/api/807170846497570848)](https://discord.com/users/807170846497570848)
 
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
