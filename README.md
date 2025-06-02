@@ -1,9 +1,6 @@
 ## Hello there ![Wavey](https://cdn.discordapp.com/emojis/854655151993913374.gif?size=32&quality=lossless&name=arparrive)
 
 I like theming things (not good at it though)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/807170846497570848)](https://discord.com/users/807170846497570848)
-
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
