@@ -1,6 +1,8 @@
 ## Hello there ![Wavey](https://cdn.discordapp.com/emojis/854655151993913374.gif?size=32&quality=lossless&name=arparrive)
 
-I like theming things (not good at it though)
+I like theming things (not good at it)
+
+I'll be uploading any new personal projects at [heliopolis.live](https://heliopolis.live/mudrhiod/) (not like i have any)
 <!--
 **Moodzz1/Moodzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
